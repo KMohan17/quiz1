@@ -1,0 +1,49 @@
+body{
+    background-image:url(2202073.webp);
+    background-size: cover;
+}
+.login_div1 ,.login_div2{
+    background-color:white;
+    padding:12px;
+    float:none;
+    border-radius:15px;
+    background-color:#ff9900;
+    border:2px solid white;
+     box-shadow: 3px 3px 3px rgba(0.3, 0.3, 0.3);
+}
+#player_name1, #player_name2{
+    display: inline-block;
+    margin-left:20px;
+    
+}
+.box{
+    height: 500px;
+    width: 800px;
+     box-shadow: 3px 3px 3px rgba(0.3, 0.3, 0.3);
+}
+h1{
+    font-family: serif;
+    font-size:45px;
+    color:white;
+    font-weight:Bold;
+}
+h2{
+    font-family: serif;
+    font-size:27px;
+    color:white;
+    font-weight:Bold;
+}
+input{
+    background-color:burlywood; 
+}
+label{
+      font-family: serif;
+    font-size:16px;
+    color:dimgray;
+    font-weight:Bold;
+}
+hr{
+    background:white;
+    height:3px;
+    top:0;
+}
